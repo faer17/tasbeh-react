@@ -1,0 +1,43 @@
+.tasbeh{
+    background: url(./bracelets-céramiques-removebg-preview.png);
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 500px;
+    margin: 0 auto;
+}
+
+h1{
+    font-size: 45px;
+    margin-left: 127px;
+    margin-top: 104px;
+    position: absolute;
+    background: grey;
+    width: 141px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.count{
+    background: green;
+    border: none;
+    margin-left: 158px;
+    margin-top: 207px;
+    width: 74px;
+    height: 74px;
+    border-radius: 50%;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.reset{
+    background: red;
+    border: none;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    margin-top: 203px;
+    position: absolute;
+    margin-left: 5px;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
