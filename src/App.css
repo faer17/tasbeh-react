@@ -1,7 +1,7 @@
 body{
     background: url(./i.webp);
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
 }
 
 .tasbeh{
