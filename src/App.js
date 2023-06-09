@@ -3,9 +3,6 @@ import './App.css'
 
 export default function App() {
     const [count,setCount]=useState(0)
-    if (count > 101) {
-      setCount  (100)
-    }
     return(
     <>
       <section>
