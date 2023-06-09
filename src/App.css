@@ -1,3 +1,9 @@
+body{
+    background: url(./i.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .tasbeh{
     background: url(./bracelets-céramiques-removebg-preview.png);
     background-repeat: no-repeat;
